@@ -1,11 +1,16 @@
 _repo: Istruzioni-popolari-per-la-buona-tenuta-dei-bachi-da-seta_54352
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54352-h/images/cover.jpg
 creator:
   author:
     agent_name: Poggi, Tito
     gutenberg_agent_id: '47837'
     url: http://www.gutenberg.org/2009/agents/47837
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54352#Istruzioni-popolari-per-la-buona-tenuta-dei-bachi-da-seta
 gutenberg_bookshelf: IT Agraria
 gutenberg_issued: '2017-03-13'
 gutenberg_type: Text
